@@ -33,3 +33,9 @@ Clonar el repositorio y ejecutar:
 
 ```bash
 python netscan.py
+```
+
+
+## Licencia
+
+Este proyecto está bajo la [MIT License](LICENSE).
